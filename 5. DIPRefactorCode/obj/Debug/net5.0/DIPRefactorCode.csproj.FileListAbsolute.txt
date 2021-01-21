@@ -1,0 +1,32 @@
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\ref\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\ref\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\ref\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\bin\Debug\net5.0\DIPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\ref\DIPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\5. DIPRefactorCode\obj\Debug\net5.0\DIPRefactorCode.genruntimeconfig.cache

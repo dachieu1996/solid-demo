@@ -1,0 +1,48 @@
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\bin\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\RefactorCode\obj\Debug\net5.0\RefactorCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\bin\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SRPRefactorCode\obj\Debug\net5.0\RefactorCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\bin\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\ref\RefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\2. SRPRefactorCode\obj\Debug\net5.0\RefactorCode.genruntimeconfig.cache

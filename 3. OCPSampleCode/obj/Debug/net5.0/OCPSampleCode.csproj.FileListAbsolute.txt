@@ -1,0 +1,48 @@
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\bin\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\OCPRefactorCode\obj\Debug\net5.0\OCPSampleCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\bin\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\ref\OCPSampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\3. OCPSampleCode\obj\Debug\net5.0\OCPSampleCode.genruntimeconfig.cache

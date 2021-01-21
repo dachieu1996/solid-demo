@@ -1,0 +1,12 @@
+        public void SaveToMySqlServer(){
+            System.Console.WriteLine("Saved to mysql server - User name: " + _user.username + " Password: " + _user.password);
+        }
+
+
+        public void SaveToMongoDb(){
+            System.Console.WriteLine("Saved to mongodb - User name: " + _user.username + " Password: " + _user.password);
+        }
+
+        public void SaveToPostgresSql(){
+            System.Console.WriteLine("Saved to postgres sql - User name: " + _user.username + " Password: " + _user.password);
+        }

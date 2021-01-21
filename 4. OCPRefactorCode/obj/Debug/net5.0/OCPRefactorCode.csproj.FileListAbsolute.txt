@@ -1,0 +1,32 @@
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\ref\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\ref\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\ref\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\ref\OCPRefactorCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\bin\Debug\net5.0\OCPRefactorCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\4. OCPRefactorCode\obj\Debug\net5.0\OCPRefactorCode.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\bin\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SRP Example\SampleCode\obj\Debug\net5.0\SampleCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\bin\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\SampleCode\obj\Debug\net5.0\SampleCode.genruntimeconfig.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.exe
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.deps.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.runtimeconfig.dev.json
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\bin\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.csprojAssemblyReference.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfoInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.AssemblyInfo.cs
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.csproj.CoreCompileInputs.cache
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\ref\SampleCode.dll
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.pdb
+E:\A-TCOM\Tsoft\Seminar\SOLID Example\1. SampleCode\obj\Debug\net5.0\SampleCode.genruntimeconfig.cache
